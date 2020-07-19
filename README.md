@@ -27,8 +27,7 @@ Run the BuildDataset.py file to build the dataset with positve as well as negati
 
 **watch and no_watch folders**
 
-![Screenshot (47)](https://user-images.githubusercontent.com/49313619/87878182-4d111f80-ca00-11ea-87e3-ebb2088a7199.png)     
-![Screenshot (48)](https://user-images.githubusercontent.com/49313619/87878183-4e424c80-ca00-11ea-9ccd-4dfa64c838a1.png)
+![Screenshot (47)](https://user-images.githubusercontent.com/49313619/87878182-4d111f80-ca00-11ea-87e3-ebb2088a7199.png)      ![Screenshot (48)](https://user-images.githubusercontent.com/49313619/87878183-4e424c80-ca00-11ea-9ccd-4dfa64c838a1.png)
 
 
 
