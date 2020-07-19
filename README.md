@@ -37,7 +37,7 @@ We are Fine Tuning a Resnet50 CNN which is pre-trained on the 1,000-class ImageN
 
 ## Final Object Detection Results
 
-![Screenshot (50)](https://user-images.githubusercontent.com/49313619/87878798-3c62a880-ca04-11ea-87a8-7577fe287d6c.png)
 ![Screenshot (49)](https://user-images.githubusercontent.com/49313619/87878803-3ec50280-ca04-11ea-9913-418c7bc99409.png)
-
 ![Screenshot (51)](https://user-images.githubusercontent.com/49313619/87878801-3e2c6c00-ca04-11ea-95af-31f4b28815d5.png)
+
+![Screenshot (50)](https://user-images.githubusercontent.com/49313619/87878798-3c62a880-ca04-11ea-87a8-7577fe287d6c.png)
