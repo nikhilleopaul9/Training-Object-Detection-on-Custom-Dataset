@@ -29,5 +29,9 @@ Run the BuildDataset.py file to build the dataset with positve as well as negati
 
 ![Screenshot (47)](https://user-images.githubusercontent.com/49313619/87878182-4d111f80-ca00-11ea-87e3-ebb2088a7199.png)      ![Screenshot (48)](https://user-images.githubusercontent.com/49313619/87878183-4e424c80-ca00-11ea-9ccd-4dfa64c838a1.png)
 
+## Fine-tuning a network for object detection with Keras and TensorFlow
 
+Run the script for tuning the model. Run the Mobilenet script if you have a low end PC and run the Resnet50 script if you have a high end PC with minimum 12-16 GB of ram or minimum 4GB-6GB of GPU memory. You can even use the RCNN_Tuning.ipynb in Google Colaboratory for better performance. Mobilenet may not be able to perform as good as the Renet50 Model, but it will be much faster when it comes to computation. 
+
+We are Fine Tuning a Resnet50 CNN which is pre-trained on the 1,000-class ImageNet dataset for better performance. It will take a significant amout of time depending on your PCs configuration and the CNN Model used. 
 
