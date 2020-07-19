@@ -18,3 +18,5 @@ The different steps involved are:
 ## Gather the Images to create the dataset and label them
 
 I have created a watch detection model using around 500 Images of different types of watches downloaded from the internet. The images are labeled using the [LabelImg Tool](https://github.com/tzutalin/labelImg).
+
+![Screenshot (46)](https://user-images.githubusercontent.com/49313619/87877855-59947880-c9fe-11ea-92e8-bab93c1a2a9c.png)
