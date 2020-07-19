@@ -26,6 +26,7 @@ I have created a watch detection model using around 500 Images of different type
 Run the BuildDataset.py file to build the dataset with positve as well as negative images in two different folders. Two folders named watch and no_watch will be created with thousands of photos in both the folders. 
 
 **watch and no_watch folders**
+
 ![Screenshot (47)](https://user-images.githubusercontent.com/49313619/87878182-4d111f80-ca00-11ea-87e3-ebb2088a7199.png)     
 ![Screenshot (48)](https://user-images.githubusercontent.com/49313619/87878183-4e424c80-ca00-11ea-9ccd-4dfa64c838a1.png)
 
