@@ -20,3 +20,9 @@ The different steps involved are:
 I have created a watch detection model using around 500 Images of different types of watches downloaded from the internet. The images are labeled using the [LabelImg Tool](https://github.com/tzutalin/labelImg).
 
 ![Screenshot (46)](https://user-images.githubusercontent.com/49313619/87877855-59947880-c9fe-11ea-92e8-bab93c1a2a9c.png)
+
+## Building the Dataset 
+
+Run the BuildDataset.py file to build the dataset with positve as well as negative images in two different folders. Two folders named watch and no_watch will be created with thousands of photos in both the folders. 
+
+
