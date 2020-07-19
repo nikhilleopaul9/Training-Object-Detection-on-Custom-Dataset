@@ -35,3 +35,5 @@ Run the script for tuning the model. Run the Mobilenet script if you have a low 
 
 We are Fine Tuning a Resnet50 CNN which is pre-trained on the 1,000-class ImageNet dataset for better performance. It will take a significant amout of time depending on your PCs configuration and the CNN Model used. 
 
+## Final Object Detection Results
+
