@@ -1,6 +1,3 @@
-# USAGE
-# python detect_object_rcnn.py --image images/raccoon_01.jpg
-
 # import the necessary packages
 from tensorflow.keras.applications.mobilenet_v2 import preprocess_input
 from tensorflow.keras.preprocessing.image import img_to_array
